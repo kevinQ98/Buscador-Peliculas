@@ -1,8 +1,7 @@
-# React + Vite
+**Movie Search App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movie Search App developed using React.js, showcasing best coding practices and integration with the [OMDB API](http://www.omdbapi.com). Utilizes React hooks such as useState, useRef, useMemo, and useCallback for efficient state management and optimal rendering.
 
-Currently, two official plugins are available:
+**Aplicación de Búsqueda de Películas**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Aplicación de búsqueda de películas desarrollada con React.js, demostrando buenas prácticas de codificación e integración con la [API de OMDB](http://www.omdbapi.com). Utiliza hooks de React como useState, useRef, useMemo y useCallback para una gestión eficiente del estado y una representación óptima.
